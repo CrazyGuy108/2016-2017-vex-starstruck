@@ -1,0 +1,3 @@
+-deadzone set from 5 to 10
+-removed auto.h and drive.h
+	-no other c file needed them
