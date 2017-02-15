@@ -1,3 +1,5 @@
 -deadzone set from 5 to 10
--removed auto.h and drive.h
+-remove auto.h and drive.h
 	-no other c file needed them
+-add extern "C" guard for header
+	-if this ever gets compiled with a c++ compiler, it won't error out

@@ -23,6 +23,11 @@
 #ifndef LIB_H
 #define LIB_H
 
+#ifdef __cplusplus
+extern "C"
+{
+#endif
+
 void
 setLeftDT(int speed);
 
@@ -37,5 +42,9 @@ setLift(int speed);
 
 void
 debug(int port, int button);
+
+#ifdef __cplusplus
+}
+#endif
 
 #endif // LIB_H
