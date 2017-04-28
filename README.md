@@ -20,5 +20,8 @@ There's also a [revisions](revisions/) folder, which contains revisions that wer
 * Taylor Hansen - Programmer.
 * Michael Szoke - Video Guy/Meme Provider.
 
+## Things I learned
+Mainly just RobotC and how to program a robot to respond to input from a joystick.
+
 ## License
 This project is under the MIT license, which can be found [here](LICENSE).
